@@ -14,23 +14,22 @@ Copy code
 pip install beautifulsoup4 requests
 ```
 ## Usage
-Clone the repository using the following command:
+1.) Clone the repository using the following command:
 
-Copy code
 ```bash
 git clone https://github.com/Sujan167/IMDB-Movie-Scraper.git
 ```
-Navigate to the cloned repository using the following command:
+2.) Navigate to the cloned repository using the following command:
 
 ```bash
 cd movie_scraper
 ```
-Run the imdb_scraper.py script using the following command:
+3.) Run the movie_scraper.py script using the following command:
 
 ```bash
 python3 movie_scraper.py
 ```
 Once the script is executed, the data will be saved in the popular_movies.csv file in the same directory.
 
-License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
